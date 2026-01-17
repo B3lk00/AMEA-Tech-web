@@ -107,3 +107,7 @@ footer {
   padding: 20px;
   color: #aaa;
 }
+
+.logo img {
+  height: 50px;
+}
